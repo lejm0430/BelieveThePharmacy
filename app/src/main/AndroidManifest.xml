@@ -2,6 +2,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.gamerecommendapp">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -16,6 +22,21 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".English"/>
+        <activity android:name=".China"/>
+        <activity android:name=".Japan"/>
+        <activity android:name=".tylenol"/>
+        <activity android:name=".anti"/>
+        <activity android:name=".Buscopan"/>
+        <activity android:name=".ezn"/>
+        <activity android:name=".qsid"/>
+        <activity android:name=".strepsils"/>
+        <activity android:name=".map"/>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCDkwigp9kR8hafFbOJBldLUH3tAhSuGp4"/>
+
     </application>
 
 </manifest>
