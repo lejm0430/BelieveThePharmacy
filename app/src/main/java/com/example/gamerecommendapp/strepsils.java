@@ -27,33 +27,54 @@ public class strepsils extends AppCompatActivity {
         tv1.setText("나의 증상은 : " + result1);
 
         String result2 = intent.getExtras().getString("result2");
-        tv2.setText(
-                "1) Patients with hypersensitivity to this drug, aspirin, other nonsteroidal anti-inflammatory drugs, or components of this drug\n" +
-                "2) Patients with severe heart failure\n" +
-                "3) Patients with serious blood abnormalities, patients with no obvious hematopoietic disorder\n" +
-                "4) Patients with severe liver failure and kidney failure\n" +
-                "5) 3 months after pregnancy");
+        if(result2 != null) {
+            tv2.setText(
+                    "1) Patients with hypersensitivity to this drug, aspirin, other nonsteroidal anti-inflammatory drugs, or components of this drug\n" +
+                            "2) Patients with severe heart failure\n" +
+                            "3) Patients with serious blood abnormalities, patients with no obvious hematopoietic disorder\n" +
+                            "4) Patients with severe liver failure and kidney failure\n" +
+                            "5) 3 months after pregnancy");
+            btn.setOnClickListener(new View.OnClickListener(){
+                public void onClick(View v){
+                    Intent intent = new Intent(getApplicationContext(), map.class);
+                    intent.putExtra("where1","");
+                    startActivity(intent);
+                }
+            });
+        }
 
         String result3 = intent.getExtras().getString("result3");
-        tv2.setText("1）对这种药物，阿司匹林，其他非甾体类抗炎药或该药物成分过敏的患者\n" +
-                "2）严重心力衰竭患者\n" +
-                "3）血液异常严重的患者，无明显造血障碍的患者\n" +
-                "4）严重肝功能衰竭和肾功能衰竭的患者\n" +
-                "5）怀孕后3个月");
+        if(result3 != null) {
+            tv2.setText("1）对这种药物，阿司匹林，其他非甾体类抗炎药或该药物成分过敏的患者\n" +
+                    "2）严重心力衰竭患者\n" +
+                    "3）血液异常严重的患者，无明显造血障碍的患者\n" +
+                    "4）严重肝功能衰竭和肾功能衰竭的患者\n" +
+                    "5）怀孕后3个月");
+            btn.setOnClickListener(new View.OnClickListener(){
+                public void onClick(View v){
+                    Intent intent = new Intent(getApplicationContext(), map.class);
+                    intent.putExtra("where2","");
+                    startActivity(intent);
+                }
+            });
+        }
 
         String result4 = intent.getExtras().getString("result4");
-        tv2.setText("1）この薬、アスピリン、他の非ステロイド性抗炎症またはこの薬剤の成分に過敏症のある患者\n" +
-                "2）心不全が激しい患者\n" +
-                "3）深刻な血液異常のある患者は、造血障害明らかでない患者\n" +
-                "4）重度の肝不全と腎不全患者\n" +
-                "5）妊婦、妊娠3ヶ月後");
+        if(result4 != null) {
+            tv2.setText("1）この薬、アスピリン、他の非ステロイド性抗炎症またはこの薬剤の成分に過敏症のある患者\n" +
+                    "2）心不全が激しい患者\n" +
+                    "3）深刻な血液異常のある患者は、造血障害明らかでない患者\n" +
+                    "4）重度の肝不全と腎不全患者\n" +
+                    "5）妊婦、妊娠3ヶ月後");
+            btn.setOnClickListener(new View.OnClickListener(){
+                public void onClick(View v){
+                    Intent intent = new Intent(getApplicationContext(), map.class);
+                    intent.putExtra("where3","");
+                    startActivity(intent);
+                }
+            });
+        }
 
-        btn.setOnClickListener(new View.OnClickListener(){
-            public void onClick(View v){
-                Intent intent = new Intent(getApplicationContext(), map.class);
-                startActivity(intent);
-            }
-        });
     }
 }
 //목아픔
