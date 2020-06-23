@@ -1,0 +1,71 @@
+
+e
+java:S1192!"HDefine a constant instead of duplicating this literal "result" 18 times.(ƒİáÜ8–ÚÀÇ§.
+E
+java:S1172"(Remove this unused method parameter "v".(¡é††8¹ªÑÅ§.
+E
+java:S1125."(Remove the literal "true" boolean value.(Øùµ8†½˜ù§.
+J
+java:S1125P"(Remove the literal "true" boolean value.(Ğ¤ïîùÿÿÿÿ8¤åÁÆ¨.
+E
+java:S1125@"(Remove the literal "true" boolean value.(¨ÎüÒ8¤åÁÆ¨.
+J
+java:S1125"(Remove the literal "true" boolean value.(¦›³ıÿÿÿÿ8‡ÕÂÆ¨.
+E
+java:S1125&"(Remove the literal "true" boolean value.(ö¢ÓÅ8†½˜ù§.
+J
+java:S1125b"(Remove the literal "true" boolean value.(îˆƒ˜ıÿÿÿÿ8ŸÂÆ¨.
+k
+java:S1192""IDefine a constant instead of duplicating this literal "result1" 18 times.(éÕÔÛüÿÿÿÿ8†½˜ù§.
+D
+java:S1125s"(Remove the literal "true" boolean value.(§¹Át8‡ÕÂÆ¨.
+F
+java:S1125›"(Remove the literal "true" boolean value.(¢áÉ¤8‡ÕÂÆ¨.
+D
+java:S1125s"(Remove the literal "true" boolean value.(§¹Át8‡ÕÂÆ¨.
+J
+java:S1125i"(Remove the literal "true" boolean value.(ŠÂºÿÿÿÿÿ8‡ÕÂÆ¨.
+J
+java:S11256"(Remove the literal "true" boolean value.(Ã’ÓÍøÿÿÿÿ8†½˜ù§.
+E
+java:S1125@"(Remove the literal "true" boolean value.(¨ÎüÒ8¤åÁÆ¨.
+F
+java:S1125†"(Remove the literal "true" boolean value.(ÙÉüù8‡ÕÂÆ¨.
+F
+java:S1125¢"(Remove the literal "true" boolean value.(´†èò8‡ÕÂÆ¨.
+E
+java:S1125&"(Remove the literal "true" boolean value.(ö¢ÓÅ8†½˜ù§.
+F
+java:S1125©"(Remove the literal "true" boolean value.(Ğì¡ş8‡ÕÂÆ¨.
+J
+java:S11256"(Remove the literal "true" boolean value.(Ã’ÓÍøÿÿÿÿ8†½˜ù§.
+F
+java:S1125"(Remove the literal "true" boolean value.(§ìş›8‡ÕÂÆ¨.
+J
+java:S1125b"(Remove the literal "true" boolean value.(îˆƒ˜ıÿÿÿÿ8ŸÂÆ¨.
+J
+java:S1125P"(Remove the literal "true" boolean value.(Ğ¤ïîùÿÿÿÿ8¤åÁÆ¨.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(â¥©àÿÿÿÿÿ8†Å÷§.
+F
+java:S1125”"(Remove the literal "true" boolean value.( §ãÂ8‡ÕÂÆ¨.
+E
+java:S1125"(Remove the literal "true" boolean value.(Ø¹’ı8†½˜ù§.
+J
+java:S1125H"(Remove the literal "true" boolean value.(±¾’àøÿÿÿÿ8¤åÁÆ¨.
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8Ğ¾çù§.
+E
+java:S1125"(Remove the literal "true" boolean value.(Ø¹’ı8†½˜ù§.
+J
+java:S1125X"(Remove the literal "true" boolean value.(Íš¢‡øÿÿÿÿ8ŸÂÆ¨.
+E
+java:S1125."(Remove the literal "true" boolean value.(Øùµ8†½˜ù§.
+J
+java:S1125H"(Remove the literal "true" boolean value.(±¾’àøÿÿÿÿ8¤åÁÆ¨.
+J
+java:S1125i"(Remove the literal "true" boolean value.(ŠÂºÿÿÿÿÿ8‡ÕÂÆ¨.
+J
+java:S1125X"(Remove the literal "true" boolean value.(Íš¢‡øÿÿÿÿ8ŸÂÆ¨.
+k
+java:S1192#"IDefine a constant instead of duplicating this literal "result2" 17 times.(Øª¯ìıÿÿÿÿ8ÀÖ§Ö«.

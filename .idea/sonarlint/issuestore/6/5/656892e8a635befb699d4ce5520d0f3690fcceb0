@@ -1,0 +1,69 @@
+
+j
+java:S1192!"HDefine a constant instead of duplicating this literal "result" 18 times.(Ö«âÿÿÿÿÿ8¨È£Å¨.
+K
+java:S1125€"(Remove the literal "true" boolean value.(¦›³ıÿÿÿÿ8æÇÆ¨.
+J
+java:S1125H"(Remove the literal "true" boolean value.(±¾’àøÿÿÿÿ8È“ÇÆ¨.
+J
+java:S1125X"(Remove the literal "true" boolean value.(Íš¢‡øÿÿÿÿ8»±ÇÆ¨.
+E
+java:S1125&"(Remove the literal "true" boolean value.(ö¢ÓÅ8¨È£Å¨.
+D
+java:S1125t"(Remove the literal "true" boolean value.(§¹Át8æÇÆ¨.
+J
+java:S11256"(Remove the literal "true" boolean value.(Ã’ÓÍøÿÿÿÿ8¨È£Å¨.
+J
+java:S1125P"(Remove the literal "true" boolean value.(Ğ¤ïîùÿÿÿÿ8»±ÇÆ¨.
+J
+java:S1125X"(Remove the literal "true" boolean value.(Íš¢‡øÿÿÿÿ8»±ÇÆ¨.
+J
+java:S1125b"(Remove the literal "true" boolean value.(îˆƒ˜ıÿÿÿÿ8»±ÇÆ¨.
+F
+java:S1125œ"(Remove the literal "true" boolean value.(¢áÉ¤8ŸÈÆ¨.
+F
+java:S1125‡"(Remove the literal "true" boolean value.(ÙÉüù8ˆúÇÆ¨.
+k
+java:S1192#"IDefine a constant instead of duplicating this literal "result4" 18 times.(ñ¥†‘øÿÿÿÿ8à³ÒÅ¨.
+E
+java:S1125@"(Remove the literal "true" boolean value.(¨ÎüÒ8È“ÇÆ¨.
+J
+java:S11256"(Remove the literal "true" boolean value.(Ã’ÓÍøÿÿÿÿ8¨È£Å¨.
+F
+java:S1125ª"(Remove the literal "true" boolean value.(Ğì¡ş8„ÂÈÆ¨.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(â¥©àÿÿÿÿÿ8¨È£Å¨.
+J
+java:S1125P"(Remove the literal "true" boolean value.(Ğ¤ïîùÿÿÿÿ8»±ÇÆ¨.
+D
+java:S1125t"(Remove the literal "true" boolean value.(§¹Át8æÇÆ¨.
+J
+java:S1125b"(Remove the literal "true" boolean value.(îˆƒ˜ıÿÿÿÿ8»±ÇÆ¨.
+E
+java:S1125"(Remove the literal "true" boolean value.(Ø¹’ı8¨È£Å¨.
+F
+java:S1125£"(Remove the literal "true" boolean value.(´†èò8„ÂÈÆ¨.
+J
+java:S1125H"(Remove the literal "true" boolean value.(±¾’àøÿÿÿÿ8È“ÇÆ¨.
+J
+java:S1125i"(Remove the literal "true" boolean value.(ŠÂºÿÿÿÿÿ8æÇÆ¨.
+E
+java:S1172"(Remove this unused method parameter "v".(¡é††8ÎäıÄ§.
+E
+java:S1125."(Remove the literal "true" boolean value.(Øùµ8¨È£Å¨.
+E
+java:S1125"(Remove the literal "true" boolean value.(Ø¹’ı8Û´¬Å§.
+J
+java:S1125i"(Remove the literal "true" boolean value.(ŠÂºÿÿÿÿÿ8æÇÆ¨.
+F
+java:S1125"(Remove the literal "true" boolean value.(§ìş›8ˆúÇÆ¨.
+k
+java:S1192""IDefine a constant instead of duplicating this literal "result1" 18 times.(éÕÔÛüÿÿÿÿ8¨È£Å¨.
+E
+java:S1125."(Remove the literal "true" boolean value.(Øùµ8¨È£Å¨.
+E
+java:S1125&"(Remove the literal "true" boolean value.(ö¢ÓÅ8¨È£Å¨.
+F
+java:S1125•"(Remove the literal "true" boolean value.( §ãÂ8ˆúÇÆ¨.
+E
+java:S1125@"(Remove the literal "true" boolean value.(¨ÎüÒ8È“ÇÆ¨.

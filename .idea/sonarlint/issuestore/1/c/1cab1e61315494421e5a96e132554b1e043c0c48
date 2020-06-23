@@ -1,0 +1,32 @@
+
+w
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(–öß«8Öª×«.
+s	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¿î©úÿÿÿÿ8Öª×«.
+s	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øùŒ¥úÿÿÿÿ8Öª×«.
+Ÿ
+java:S1186°"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÜäÎ8Öª×«.
+n
+java:S1301”"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8Öª×«.
+€	java:S116L"_Rename this field "REQUIRED_PERMISSIONS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹çÆøÿÿÿÿ8¾”êéª.
+v	java:S116Z"ZRename this field "previous_marker" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å³•8¾”êéª.
+Ÿ
+java:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(í ’–8Öª×«.
+‹
+java:S3252Ù"mUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_INDEFINITE".(š¸Ø†8Öª×«.
+9
+java:S3626¡"Remove this redundant jump.(ûÁİ…8Öª×«.
+D	java:S131”""Add a default case to this switch.(×ö³–úÿÿÿÿ8Öª×«.
+‹
+java:S3252¸"mUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_INDEFINITE".(š¸Ø†8Öª×«.
+w
+java:S2293Ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(–´ı•8Öª×«.
+n	java:S1018"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•‘¢úÿÿÿÿ8¾”êéª.
+¤
+java:S1186Õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûà§èıÿÿÿÿ8Öª×«.
+_
+java:S1126©"AReplace this if-then-else statement by a single return statement.(Ô–Ü÷8Öª×«.
+‹
+java:S3252ç"mUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_INDEFINITE".(š¸Ø†8Öª×«.
+R
+java:S1066š"/Merge this if statement with the enclosing one.(ù“Ô¦ÿÿÿÿÿ8Öª×«.
+Y	java:S125ã"<This block of commented-out lines of code should be removed.(è™ä8Öª×«.
